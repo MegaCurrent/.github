@@ -9,4 +9,4 @@
   security-relevant: tick the box in the PR template; it gets the tier A
   review.
 - The workflow every session follows, the review loop and the merge rules:
-  `MegaCurrent/workflow` (`CLAUDE.md` there).
+  `MegaCurrent/workflow` (private; `CLAUDE.md` there).

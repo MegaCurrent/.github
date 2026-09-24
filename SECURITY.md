@@ -3,16 +3,13 @@
 ## Reporting a vulnerability
 
 Do not open a public issue. Use GitHub's "Report a vulnerability" button on
-the affected repository (private vulnerability reporting), with reproduction
-steps and the component affected. Acknowledgement within 2 business days; a
-remediation timeline within 7.
+this repository (`MegaCurrent/.github`, where private vulnerability
+reporting is enabled) with reproduction steps and the component affected.
+Reports are acknowledged within 2 business days.
 
 ## Scope
 
-Every repository in the `MegaCurrent` organization. The highest-value
-targets are the portal's sign-in and session cookie (`victron-tools`, the
-`@megacurrent/victron-auth` package every tool imports) and the tool
-registry's redirect and download targets.
+Every repository in the `MegaCurrent` organization.
 
 ## Secrets
 
