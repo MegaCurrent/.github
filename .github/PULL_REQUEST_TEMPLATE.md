@@ -6,7 +6,7 @@ Closes #
 
 ## Tier
 
-- [ ] Tier A (a path the repository's `CLAUDE.md` lists: auth, redirect or download targets, schema, packages, release workflows) — `reviewer-a` reviews, the orchestrator reads the hunks
+- [ ] Tier A (a path the repository's `CLAUDE.md` lists as tier A) — `reviewer-a` reviews, the orchestrator reads the hunks
 - [ ] Tier B
 
 ## Verification
